@@ -1,0 +1,17 @@
+# ninja log v5
+3	95	7157074961500835	CMakeFiles/DataStructures.dir/library.c.obj	538f39de62ab1fce
+102	180	7157073768454522	libDataStructures.a	43cc990d80d9320d
+1	187	7157075649333484	build.ninja	55e97afcd74d51f2
+0	171	7157075649333484	build.ninja	55e97afcd74d51f2
+1	97	7157075651124654	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+3	112	7157075886419541	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+112	220	7157075887452732	DataStructures.exe	b3901c8e3ec13bda
+2	98	7157077198767614	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+2	89	7157077789742512	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+3	98	7157078869426046	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+2	91	7157079398220436	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+92	197	7157079399240201	DataStructures.exe	b3901c8e3ec13bda
+4	120	7157079714027560	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+120	228	7157079715056804	DataStructures.exe	b3901c8e3ec13bda
+3	109	7157080218439730	CMakeFiles/DataStructures.dir/main.c.obj	86b109e56506da7b
+110	234	7157080219642374	DataStructures.exe	b3901c8e3ec13bda
